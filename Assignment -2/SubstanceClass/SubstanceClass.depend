@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1552421213 source:c:\users\justi\documents\c++ programs\cs 181 jaiswal\substanceclass\main.cpp
+	<iostream>
+	"Substance.h"
+
+1552421682 c:\users\justi\documents\c++ programs\cs 181 jaiswal\substanceclass\include\substance.h
+
+1552421682 source:c:\users\justi\documents\c++ programs\cs 181 jaiswal\substanceclass\src\substance.cpp
+	"Substance.h"
+
+1552421682 source:c:\users\justi\documents\c++ programs\cs 181 jaiswal\assignment -2\substanceclass\src\substance.cpp
+	"Substance.h"
+
+1552421682 c:\users\justi\documents\c++ programs\cs 181 jaiswal\assignment -2\substanceclass\include\substance.h
+
+1552438209 source:c:\users\justi\documents\c++ programs\cs 181 jaiswal\assignment -2\substanceclass\substanceevaluator.cpp
+	<iostream>
+	"Substance.h"
+

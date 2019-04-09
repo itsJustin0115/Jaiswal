@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1550640478 source:c:\users\justi\documents\c++ programs\cs 181 jaiswal\divisionsprogram\divisionrecords.cpp
+	<fstream>
+	<iomanip>
+	<iostream>
+	<vector>
+	<string>
+	<bits/stdc++.h>
+
+1550644766 source:c:\users\justi\documents\c++ programs\cs 181 jaiswal\assignment-1\divisionsprogram\divisionrecords.cpp
+	<fstream>
+	<iomanip>
+	<iostream>
+	<vector>
+	<string>
+	<bits/stdc++.h>
+

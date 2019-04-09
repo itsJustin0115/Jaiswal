@@ -1,0 +1,7 @@
+Kansas City, 11111, 1234, 2000
+San Francisco, 22222, 1234, 2003
+Minnesota, 3333, 1234, 2007
+asdf,1234,1234,1234
+testing,1234,2345,2345
+Almost Done,52957,23.5,2000
+Penis Block,57639,529.57,2004

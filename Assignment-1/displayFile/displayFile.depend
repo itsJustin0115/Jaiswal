@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1550103773 source:c:\users\justi\documents\c++ programs\displayfile\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
+1550123955 source:c:\users\justi\documents\c++ programs\cs 181 jaiswal\assignment-1\displayfile\displaytenlines.cpp
+	<iostream>
+	<fstream>
+	<string>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1554346751 source:c:\users\justi\documents\c++ programs\cs 181 jaiswal\theyear1\main.cpp
+	<iostream>
+	<string>
+
+1554586052 source:c:\users\justi\documents\c++ programs\cs 181 jaiswal\theyear1\dayofyear.cpp
+	<iostream>
+	<string>
+

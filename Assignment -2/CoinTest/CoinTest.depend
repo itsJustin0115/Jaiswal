@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1552460943 source:c:\users\justi\documents\c++ programs\cs 181 jaiswal\cointest\main.cpp
+	<iostream>
+	"Coin.h"
+
+1552499961 c:\users\justi\documents\c++ programs\cs 181 jaiswal\cointest\include\coin.h
+	<cstdlib>
+	<string>
+	<iomanip>
+
+1552500158 source:c:\users\justi\documents\c++ programs\cs 181 jaiswal\cointest\src\coin.cpp
+	"Coin.h"
+
+1552500603 source:c:\users\justi\documents\c++ programs\cs 181 jaiswal\cointest\cointester.cpp
+	<iostream>
+	"Coin.h"
+
+1552500603 source:c:\users\justi\documents\c++ programs\cs 181 jaiswal\assignment -2\cointest\cointester.cpp
+	<iostream>
+	"Coin.h"
+
+1552499961 c:\users\justi\documents\c++ programs\cs 181 jaiswal\assignment -2\cointest\include\coin.h
+	<cstdlib>
+	<string>
+	<iomanip>
+
+1552885459 source:c:\users\justi\documents\c++ programs\cs 181 jaiswal\assignment -2\cointest\src\coin.cpp
+	"Coin.h"
+
